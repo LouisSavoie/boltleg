@@ -2,7 +2,7 @@
 
 Boltleg is a bootleg version of Puppet Bolt. It's like Bolt, but not Bolt.
 
-Boltleg was made as a learning exercise for it's creator to familiarize himself with things like Ruby, Gems, Rake, Bundler, and of course Bolt.
+Boltleg was made as a learning exercise for its creator to familiarize himself with things like Ruby, Gems, Rake, Bundler, and of course Bolt.
 
 ## Installation
 
